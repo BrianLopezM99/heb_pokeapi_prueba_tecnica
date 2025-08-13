@@ -80,7 +80,3 @@ https://github.com/user-attachments/assets/ca2d5dec-3d8f-45fe-a4ea-31a2974b8278
 
 
 <img width="439" height="937" alt="Captura de pantalla 2025-08-13 a la(s) 1 39 34 a m" src="https://github.com/user-attachments/assets/86a3fb0d-a8d9-4ffd-b1a1-f200e523207b" />
-
-## 📝 Licencia
-
-Este proyecto está bajo la licencia MIT.
