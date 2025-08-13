@@ -69,6 +69,10 @@ GET https://pokeapi.co/api/v2/pokemon/1
 ```
 📸 Capturas
 
+
+https://github.com/user-attachments/assets/ca2d5dec-3d8f-45fe-a4ea-31a2974b8278
+
+
 <img width="476" height="981" alt="Captura de pantalla 2025-08-13 a la(s) 1 38 48 a m" src="https://github.com/user-attachments/assets/29ad21bf-2eff-46d2-96a7-f1e5057cdc3e" />
 
 
